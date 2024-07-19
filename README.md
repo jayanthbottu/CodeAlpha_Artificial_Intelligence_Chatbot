@@ -1,7 +1,7 @@
 # CodeAlpha_Artificial_Intelligence_Chatbot
 
 
-<video src="https://github.com/user-attachments/assets/fb7648c7-4de1-4428-bec6-4cfade607f5a" width="400">
+<video src="https://github.com/user-attachments/assets/fb7648c7-4de1-4428-bec6-4cfade607f5a" width="400" height="300">
 Sorry, your browser does not support this video player.
 </video>
 
